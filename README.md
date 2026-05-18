@@ -1,2 +1,12 @@
-# Placement-Management-System
-Placement Management System is a web-based application developed using Java, SQL, and HTML to manage campus placement activities. The system stores student and company details, checks eligibility based on CGPA, and tracks placement records efficiently. It reduces manual work, improves accuracy, and simplifies placement coordination.
+# Placement Management System
+Placement Management System is a web-based application developed using Java, SQL, and HTML to manage campus placement activities efficiently.
+## Features
+- Student Registration
+- Eligibility Checking
+- Placement Record Management
+## Technologies Used
+- Java
+- SQL
+- HTML
+## Author
+Megaa M
